@@ -1,0 +1,49 @@
+name: 📅 Daily Dev Log
+
+on:
+  schedule:
+    # Runs every day at midnight UTC (5:30 AM IST)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Allows manual trigger from the Actions tab for testing
+
+permissions:
+  contents: write  # Required to commit and push the new log file
+
+jobs:
+  generate-log:
+    name: Generate & Commit Daily Log
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for accurate day counting
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 🚀 Generate today's log
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: ${{ github.actor }}
+        run: |
+          python3 scripts/generate_log.py
+
+      - name: 📝 Commit and push changes
+        run: |
+          git config --global user.name "Daily Dev Log Bot"
+          git config --global user.email "actions@github.com"
+          git add logs/ README.md
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit (log for today may already exist)."
+          else
+            DATE=$(date -u +"%Y-%m-%d")
+            git commit -m "📅 Daily log: ${DATE}"
+            git push
+            echo "✅ Pushed daily log for ${DATE}"
+          fi

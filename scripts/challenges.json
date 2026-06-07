@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "category": "Arrays",
+    "difficulty": "Easy",
+    "description": "Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`. You may assume that each input would have exactly one solution, and you may not use the same element twice.",
+    "example": "Input: nums = [2,7,11,15], target = 9\nOutput: [0,1]",
+    "starter": "def two_sum(nums: list[int], target: int) -> list[int]:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 2,
+    "title": "Valid Palindrome",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "description": "A phrase is a palindrome if, after converting all uppercase letters to lowercase and removing all non-alphanumeric characters, it reads the same forward and backward. Given a string `s`, return `true` if it is a palindrome, or `false` otherwise.",
+    "example": "Input: s = \"A man, a plan, a canal: Panama\"\nOutput: true",
+    "starter": "def is_palindrome(s: str) -> bool:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 3,
+    "title": "Maximum Subarray",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "description": "Given an integer array `nums`, find the subarray with the largest sum, and return its sum. (Kadane's Algorithm)",
+    "example": "Input: nums = [-2,1,-3,4,-1,2,1,-5,4]\nOutput: 6",
+    "starter": "def max_subarray(nums: list[int]) -> int:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 4,
+    "title": "Binary Search",
+    "category": "Searching",
+    "difficulty": "Easy",
+    "description": "Given an array of integers `nums` sorted in ascending order and an integer `target`, write a function to search `target` in `nums`. If `target` exists, return its index. Otherwise, return -1.",
+    "example": "Input: nums = [-1,0,3,5,9,12], target = 9\nOutput: 4",
+    "starter": "def binary_search(nums: list[int], target: int) -> int:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 5,
+    "title": "Reverse Linked List",
+    "category": "Linked Lists",
+    "difficulty": "Easy",
+    "description": "Given the head of a singly linked list, reverse the list, and return the reversed list.",
+    "example": "Input: head = [1,2,3,4,5]\nOutput: [5,4,3,2,1]",
+    "starter": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\n\ndef reverse_list(head: ListNode) -> ListNode:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 6,
+    "title": "Valid Parentheses",
+    "category": "Stacks",
+    "difficulty": "Easy",
+    "description": "Given a string `s` containing just the characters `(`, `)`, `{`, `}`, `[` and `]`, determine if the input string is valid. An input string is valid if: open brackets are closed by the same type, open brackets are closed in the correct order, and every close bracket has a corresponding open bracket.",
+    "example": "Input: s = \"()[]{}\"\nOutput: true",
+    "starter": "def is_valid(s: str) -> bool:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 7,
+    "title": "Climbing Stairs",
+    "category": "Dynamic Programming",
+    "difficulty": "Easy",
+    "description": "You are climbing a staircase. It takes `n` steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?",
+    "example": "Input: n = 3\nOutput: 3 (1+1+1, 1+2, 2+1)",
+    "starter": "def climb_stairs(n: int) -> int:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 8,
+    "title": "Merge Two Sorted Lists",
+    "category": "Linked Lists",
+    "difficulty": "Easy",
+    "description": "You are given the heads of two sorted linked lists `list1` and `list2`. Merge the two lists into one sorted list and return the head of the merged linked list.",
+    "example": "Input: list1 = [1,2,4], list2 = [1,3,4]\nOutput: [1,1,2,3,4,4]",
+    "starter": "def merge_two_lists(list1, list2):\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 9,
+    "title": "Invert Binary Tree",
+    "category": "Trees",
+    "difficulty": "Easy",
+    "description": "Given the root of a binary tree, invert the tree, and return its root.",
+    "example": "Input: root = [4,2,7,1,3,6,9]\nOutput: [4,7,2,9,6,3,1]",
+    "starter": "class TreeNode:\n    def __init__(self, val=0, left=None, right=None):\n        self.val = val\n        self.left = left\n        self.right = right\n\ndef invert_tree(root: TreeNode) -> TreeNode:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 10,
+    "title": "Longest Common Prefix",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "description": "Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string.",
+    "example": "Input: strs = [\"flower\",\"flow\",\"flight\"]\nOutput: \"fl\"",
+    "starter": "def longest_common_prefix(strs: list[str]) -> str:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 11,
+    "title": "Number of Islands",
+    "category": "Graphs",
+    "difficulty": "Medium",
+    "description": "Given an `m x n` 2D binary grid which represents a map of '1's (land) and '0's (water), return the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically.",
+    "example": "Input: grid = [[\"1\",\"1\",\"0\"],[\"0\",\"1\",\"0\"],[\"0\",\"0\",\"1\"]]\nOutput: 2",
+    "starter": "def num_islands(grid: list[list[str]]) -> int:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 12,
+    "title": "Coin Change",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "description": "You are given an integer array `coins` representing coins of different denominations and an integer `amount` representing a total amount of money. Return the fewest number of coins needed to make up that amount. If that amount cannot be made up, return -1.",
+    "example": "Input: coins = [1,5,11], amount = 15\nOutput: 3",
+    "starter": "def coin_change(coins: list[int], amount: int) -> int:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 13,
+    "title": "Rotate Array",
+    "category": "Arrays",
+    "difficulty": "Medium",
+    "description": "Given an integer array `nums`, rotate the array to the right by `k` steps, where `k` is non-negative. Try to do it in-place with O(1) extra space.",
+    "example": "Input: nums = [1,2,3,4,5,6,7], k = 3\nOutput: [5,6,7,1,2,3,4]",
+    "starter": "def rotate(nums: list[int], k: int) -> None:\n    # Modify nums in-place\n    pass"
+  },
+  {
+    "id": 14,
+    "title": "Fibonacci Number",
+    "category": "Math",
+    "difficulty": "Easy",
+    "description": "The Fibonacci numbers form a sequence such that each number is the sum of the two preceding ones, starting from 0 and 1. Given `n`, calculate `F(n)`. Try iterative, recursive, and memoized approaches.",
+    "example": "Input: n = 10\nOutput: 55",
+    "starter": "def fib(n: int) -> int:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 15,
+    "title": "Find First and Last Position in Sorted Array",
+    "category": "Searching",
+    "difficulty": "Medium",
+    "description": "Given an array of integers `nums` sorted in non-decreasing order, find the starting and ending position of a given `target` value. If `target` is not found in the array, return `[-1, -1]`. Your algorithm must have O(log n) runtime complexity.",
+    "example": "Input: nums = [5,7,7,8,8,10], target = 8\nOutput: [3,4]",
+    "starter": "def search_range(nums: list[int], target: int) -> list[int]:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 16,
+    "title": "LRU Cache",
+    "category": "Design",
+    "difficulty": "Medium",
+    "description": "Design a data structure that follows the constraints of a Least Recently Used (LRU) cache. Implement `get(key)` and `put(key, value)` both in O(1) time complexity.",
+    "example": "LRUCache(2): put(1,1), put(2,2), get(1)->1, put(3,3), get(2)->-1",
+    "starter": "class LRUCache:\n    def __init__(self, capacity: int):\n        pass\n\n    def get(self, key: int) -> int:\n        pass\n\n    def put(self, key: int, value: int) -> None:\n        pass"
+  },
+  {
+    "id": 17,
+    "title": "Word Search",
+    "category": "Backtracking",
+    "difficulty": "Medium",
+    "description": "Given an `m x n` grid of characters `board` and a string `word`, return `true` if `word` exists in the grid. The word can be constructed from letters of sequentially adjacent cells (horizontally or vertically adjacent). The same letter cell may not be used more than once.",
+    "example": "Input: board = [[\"A\",\"B\",\"C\"],[\"S\",\"F\",\"C\"],[\"A\",\"D\",\"E\"]], word = \"ABCCED\"\nOutput: true",
+    "starter": "def exist(board: list[list[str]], word: str) -> bool:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 18,
+    "title": "Generate Parentheses",
+    "category": "Backtracking",
+    "difficulty": "Medium",
+    "description": "Given `n` pairs of parentheses, write a function to generate all combinations of well-formed parentheses.",
+    "example": "Input: n = 3\nOutput: [\"((()))\",\"(()())\",\"(())()\",\"()(())\",\"()()()\"]",
+    "starter": "def generate_parenthesis(n: int) -> list[str]:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 19,
+    "title": "Decode Ways",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "description": "'A' maps to 1, 'B' to 2, ..., 'Z' to 26. Given a string `s` containing only digits, return the number of ways to decode it.",
+    "example": "Input: s = \"226\"\nOutput: 3 (\"BZ\", \"VF\", \"BBF\")",
+    "starter": "def num_decodings(s: str) -> int:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 20,
+    "title": "Trapping Rain Water",
+    "category": "Arrays",
+    "difficulty": "Hard",
+    "description": "Given `n` non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.",
+    "example": "Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]\nOutput: 6",
+    "starter": "def trap(height: list[int]) -> int:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 21,
+    "title": "Median of Two Sorted Arrays",
+    "category": "Searching",
+    "difficulty": "Hard",
+    "description": "Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return the median of the two sorted arrays. The overall run time complexity should be O(log(m+n)).",
+    "example": "Input: nums1 = [1,3], nums2 = [2]\nOutput: 2.0",
+    "starter": "def find_median_sorted_arrays(nums1: list[int], nums2: list[int]) -> float:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 22,
+    "title": "Course Schedule",
+    "category": "Graphs",
+    "difficulty": "Medium",
+    "description": "There are `numCourses` courses you have to take, labeled from 0 to numCourses-1. You are given an array `prerequisites`. Return true if you can finish all courses (i.e., no cycle exists).",
+    "example": "Input: numCourses = 2, prerequisites = [[1,0]]\nOutput: true",
+    "starter": "def can_finish(numCourses: int, prerequisites: list[list[int]]) -> bool:\n    # Topological sort / DFS cycle detection\n    pass"
+  },
+  {
+    "id": 23,
+    "title": "Longest Palindromic Substring",
+    "category": "Strings",
+    "difficulty": "Medium",
+    "description": "Given a string `s`, return the longest palindromic substring in `s`.",
+    "example": "Input: s = \"babad\"\nOutput: \"bab\"",
+    "starter": "def longest_palindrome(s: str) -> str:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 24,
+    "title": "Min Stack",
+    "category": "Design",
+    "difficulty": "Medium",
+    "description": "Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.",
+    "example": "MinStack: push(-2), push(0), push(-3), getMin()->-3, pop(), top()->0, getMin()->-2",
+    "starter": "class MinStack:\n    def __init__(self):\n        pass\n\n    def push(self, val: int) -> None:\n        pass\n\n    def pop(self) -> None:\n        pass\n\n    def top(self) -> int:\n        pass\n\n    def get_min(self) -> int:\n        pass"
+  },
+  {
+    "id": 25,
+    "title": "Product of Array Except Self",
+    "category": "Arrays",
+    "difficulty": "Medium",
+    "description": "Given an integer array `nums`, return an array `answer` such that `answer[i]` is equal to the product of all the elements of `nums` except `nums[i]`. Solve it without division and in O(n) time.",
+    "example": "Input: nums = [1,2,3,4]\nOutput: [24,12,8,6]",
+    "starter": "def product_except_self(nums: list[int]) -> list[int]:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 26,
+    "title": "Serialize and Deserialize Binary Tree",
+    "category": "Trees",
+    "difficulty": "Hard",
+    "description": "Design an algorithm to serialize and deserialize a binary tree. There is no restriction on how your serialization/deserialization algorithm should work.",
+    "example": "serialize([1,2,3,null,null,4,5]) -> \"1,2,3,null,null,4,5\"\ndeserialize(\"1,2,3,null,null,4,5\") -> [1,2,3,null,null,4,5]",
+    "starter": "class Codec:\n    def serialize(self, root) -> str:\n        pass\n\n    def deserialize(self, data: str):\n        pass"
+  },
+  {
+    "id": 27,
+    "title": "Sliding Window Maximum",
+    "category": "Stacks",
+    "difficulty": "Hard",
+    "description": "You are given an array of integers `nums` and an integer `k`. There is a sliding window of size `k` moving from the left. Return the maximum value of each window position.",
+    "example": "Input: nums = [1,3,-1,-3,5,3,6,7], k = 3\nOutput: [3,3,5,5,6,7]",
+    "starter": "from collections import deque\n\ndef max_sliding_window(nums: list[int], k: int) -> list[int]:\n    # Your solution here\n    pass"
+  },
+  {
+    "id": 28,
+    "title": "Find the Duplicate Number",
+    "category": "Arrays",
+    "difficulty": "Medium",
+    "description": "Given an array of integers `nums` containing n+1 integers where each is between 1 and n, there is only one repeated number. Find that number without modifying the array and using only constant extra space.",
+    "example": "Input: nums = [1,3,4,2,2]\nOutput: 2",
+    "starter": "def find_duplicate(nums: list[int]) -> int:\n    # Floyd's cycle detection (tortoise and hare)\n    pass"
+  },
+  {
+    "id": 29,
+    "title": "Longest Increasing Subsequence",
+    "category": "Dynamic Programming",
+    "difficulty": "Medium",
+    "description": "Given an integer array `nums`, return the length of the longest strictly increasing subsequence.",
+    "example": "Input: nums = [10,9,2,5,3,7,101,18]\nOutput: 4 (2,3,7,101)",
+    "starter": "def length_of_lis(nums: list[int]) -> int:\n    # DP or Binary Search approach\n    pass"
+  },
+  {
+    "id": 30,
+    "title": "Regular Expression Matching",
+    "category": "Dynamic Programming",
+    "difficulty": "Hard",
+    "description": "Given an input string `s` and a pattern `p`, implement regular expression matching with support for `.` and `*` where `.` matches any single character and `*` matches zero or more of the preceding element.",
+    "example": "Input: s = \"aab\", p = \"c*a*b\"\nOutput: true",
+    "starter": "def is_match(s: str, p: str) -> bool:\n    # DP solution\n    pass"
+  }
+]
