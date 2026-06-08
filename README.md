@@ -7,15 +7,15 @@
 
 ---
 
-## 📌 Latest Entry — 2026-06-07
+## 📌 Latest Entry — 2026-06-08
 
-**→ [View Today's Log](./logs/2026/06/2026-06-07.md)**
+**→ [View Today's Log](./logs/2026/06/2026-06-08.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Rotate Array** (`Arrays` · Medium) |
-| 💬 Quote | *"The best way to predict the future is to invent it...."* — Alan Kay |
-| 📊 Stars | ⭐ 0 across 35 repos |
+| 🧩 Challenge | **Longest Palindromic Substring** (`Strings` · Medium) |
+| 💬 Quote | *"Simple can be harder than complex: You have to work hard to get your thinking cl..."* — Steve Jobs |
+| 📊 Stars | ⭐ 2 across 36 repos |
 | 👥 Followers | 1 |
 
 ---
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-06-07 · Day #2*
+*Last updated: 2026-06-08 · Day #2*
