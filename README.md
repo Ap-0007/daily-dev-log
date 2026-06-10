@@ -1,21 +1,21 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-3%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-4%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-06-09
+## 📌 Latest Entry — 2026-06-10
 
-**→ [View Today's Log](./logs/2026/06/2026-06-09.md)**
+**→ [View Today's Log](./logs/2026/06/2026-06-10.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Invert Binary Tree** (`Trees` · Easy) |
-| 💬 Quote | *"There are two ways to write error-free programs; only the third one works...."* — Tony Hoare |
-| 📊 Stars | ⭐ 2 across 36 repos |
+| 🧩 Challenge | **Course Schedule** (`Graphs` · Medium) |
+| 💬 Quote | *"It's not that I'm so smart, it's just that I stay with problems longer...."* — James Gosling |
+| 📊 Stars | ⭐ 2 across 37 repos |
 | 👥 Followers | 1 |
 
 ---
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-06-09 · Day #3*
+*Last updated: 2026-06-10 · Day #4*
