@@ -1,20 +1,20 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-4%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-5%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-06-10
+## 📌 Latest Entry — 2026-06-11
 
-**→ [View Today's Log](./logs/2026/06/2026-06-10.md)**
+**→ [View Today's Log](./logs/2026/06/2026-06-11.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Course Schedule** (`Graphs` · Medium) |
-| 💬 Quote | *"It's not that I'm so smart, it's just that I stay with problems longer...."* — James Gosling |
+| 🧩 Challenge | **Find the Duplicate Number** (`Arrays` · Medium) |
+| 💬 Quote | *"A distributed system is one in which the failure of a computer you didn't even k..."* — Leslie Lamport |
 | 📊 Stars | ⭐ 2 across 37 repos |
 | 👥 Followers | 1 |
 
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-06-10 · Day #4*
+*Last updated: 2026-06-11 · Day #5*
