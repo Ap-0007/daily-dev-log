@@ -1,21 +1,21 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-5%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-6%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-06-11
+## 📌 Latest Entry — 2026-06-12
 
-**→ [View Today's Log](./logs/2026/06/2026-06-11.md)**
+**→ [View Today's Log](./logs/2026/06/2026-06-12.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Find the Duplicate Number** (`Arrays` · Medium) |
-| 💬 Quote | *"A distributed system is one in which the failure of a computer you didn't even k..."* — Leslie Lamport |
-| 📊 Stars | ⭐ 2 across 37 repos |
+| 🧩 Challenge | **Binary Search** (`Searching` · Easy) |
+| 💬 Quote | *"A startup is a company designed to grow fast...."* — Paul Graham |
+| 📊 Stars | ⭐ 2 across 38 repos |
 | 👥 Followers | 1 |
 
 ---
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-06-11 · Day #5*
+*Last updated: 2026-06-12 · Day #6*
