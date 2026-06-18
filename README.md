@@ -1,20 +1,20 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-11%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-12%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-06-17
+## 📌 Latest Entry — 2026-06-18
 
-**→ [View Today's Log](./logs/2026/06/2026-06-17.md)**
+**→ [View Today's Log](./logs/2026/06/2026-06-18.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Maximum Subarray** (`Dynamic Programming` · Medium) |
-| 💬 Quote | *"There are only two hard things in Computer Science: cache invalidation and namin..."* — Phil Karlton |
+| 🧩 Challenge | **Sliding Window Maximum** (`Stacks` · Hard) |
+| 💬 Quote | *"A computer would deserve to be called intelligent if it could deceive a human in..."* — Alan Turing |
 | 📊 Stars | ⭐ 2 across 44 repos |
 | 👥 Followers | 1 |
 
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-06-17 · Day #11*
+*Last updated: 2026-06-18 · Day #12*
