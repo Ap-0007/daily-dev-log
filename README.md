@@ -1,20 +1,20 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-13%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-14%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-06-19
+## 📌 Latest Entry — 2026-06-20
 
-**→ [View Today's Log](./logs/2026/06/2026-06-19.md)**
+**→ [View Today's Log](./logs/2026/06/2026-06-20.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Generate Parentheses** (`Backtracking` · Medium) |
-| 💬 Quote | *"It's not that I'm so smart, it's just that I stay with problems longer...."* — James Gosling |
+| 🧩 Challenge | **Longest Palindromic Substring** (`Strings` · Medium) |
+| 💬 Quote | *"Good design adds value faster than it adds cost...."* — Dave Thomas |
 | 📊 Stars | ⭐ 2 across 44 repos |
 | 👥 Followers | 1 |
 
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-06-19 · Day #13*
+*Last updated: 2026-06-20 · Day #14*
