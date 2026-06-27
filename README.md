@@ -1,21 +1,21 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-20%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-21%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-06-26
+## 📌 Latest Entry — 2026-06-27
 
-**→ [View Today's Log](./logs/2026/06/2026-06-26.md)**
+**→ [View Today's Log](./logs/2026/06/2026-06-27.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Find the Duplicate Number** (`Arrays` · Medium) |
-| 💬 Quote | *"The key to performance is elegance, not battalions of special cases...."* — Jeff Dean |
-| 📊 Stars | ⭐ 3 across 48 repos |
+| 🧩 Challenge | **Decode Ways** (`Dynamic Programming` · Medium) |
+| 💬 Quote | *"If you have to work with code that is a mess, the way to clean it up is to first..."* — Martin Fowler |
+| 📊 Stars | ⭐ 3 across 50 repos |
 | 👥 Followers | 2 |
 
 ---
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-06-26 · Day #20*
+*Last updated: 2026-06-27 · Day #21*
