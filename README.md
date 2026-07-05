@@ -1,19 +1,19 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-28%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-29%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-07-04
+## 📌 Latest Entry — 2026-07-05
 
-**→ [View Today's Log](./logs/2026/07/2026-07-04.md)**
+**→ [View Today's Log](./logs/2026/07/2026-07-05.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Find the Duplicate Number** (`Arrays` · Medium) |
+| 🧩 Challenge | **Longest Increasing Subsequence** (`Dynamic Programming` · Medium) |
 | 💬 Quote | *"The purpose of abstraction is not to be vague, but to create a new semantic leve..."* — Sandi Metz |
 | 📊 Stars | ⭐ 3 across 54 repos |
 | 👥 Followers | 3 |
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-07-04 · Day #28*
+*Last updated: 2026-07-05 · Day #29*
