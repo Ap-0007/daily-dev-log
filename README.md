@@ -1,21 +1,21 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-40%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-41%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-07-16
+## 📌 Latest Entry — 2026-07-17
 
-**→ [View Today's Log](./logs/2026/07/2026-07-16.md)**
+**→ [View Today's Log](./logs/2026/07/2026-07-17.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Longest Common Prefix** (`Strings` · Easy) |
-| 💬 Quote | *"The best way to predict the future is to invent it...."* — Alan Kay |
-| 📊 Stars | ⭐ 3 across 64 repos |
+| 🧩 Challenge | **Coin Change** (`Dynamic Programming` · Medium) |
+| 💬 Quote | *"Make something people want, then make it run on the web...."* — David Heinemeier Hansson |
+| 📊 Stars | ⭐ 3 across 70 repos |
 | 👥 Followers | 3 |
 
 ---
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-07-16 · Day #40*
+*Last updated: 2026-07-17 · Day #41*
