@@ -1,22 +1,22 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-43%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-44%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-07-19
+## 📌 Latest Entry — 2026-07-20
 
-**→ [View Today's Log](./logs/2026/07/2026-07-19.md)**
+**→ [View Today's Log](./logs/2026/07/2026-07-20.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Longest Common Prefix** (`Strings` · Easy) |
-| 💬 Quote | *"An algorithm must be seen to be believed...."* — Knuth |
-| 📊 Stars | ⭐ 3 across 73 repos |
-| 👥 Followers | 3 |
+| 🧩 Challenge | **Reverse Linked List** (`Linked Lists` · Easy) |
+| 💬 Quote | *"Simple can be harder than complex: You have to work hard to get your thinking cl..."* — Steve Jobs |
+| 📊 Stars | ⭐ 5 across 73 repos |
+| 👥 Followers | 4 |
 
 ---
 
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-07-19 · Day #43*
+*Last updated: 2026-07-20 · Day #44*
