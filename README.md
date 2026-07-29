@@ -1,20 +1,20 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-52%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-53%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-07-28
+## 📌 Latest Entry — 2026-07-29
 
-**→ [View Today's Log](./logs/2026/07/2026-07-28.md)**
+**→ [View Today's Log](./logs/2026/07/2026-07-29.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Longest Increasing Subsequence** (`Dynamic Programming` · Medium) |
-| 💬 Quote | *"The best way to predict the future is to invent it...."* — Alan Kay |
+| 🧩 Challenge | **Sliding Window Maximum** (`Stacks` · Hard) |
+| 💬 Quote | *"The bearing of a child takes nine months, no matter how many women are assigned...."* — Harlan Mills |
 | 📊 Stars | ⭐ 6 across 75 repos |
 | 👥 Followers | 4 |
 
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-07-28 · Day #52*
+*Last updated: 2026-07-29 · Day #53*
