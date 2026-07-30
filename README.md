@@ -1,21 +1,21 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-53%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-54%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-07-29
+## 📌 Latest Entry — 2026-07-30
 
-**→ [View Today's Log](./logs/2026/07/2026-07-29.md)**
+**→ [View Today's Log](./logs/2026/07/2026-07-30.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Sliding Window Maximum** (`Stacks` · Hard) |
-| 💬 Quote | *"The bearing of a child takes nine months, no matter how many women are assigned...."* — Harlan Mills |
-| 📊 Stars | ⭐ 6 across 75 repos |
+| 🧩 Challenge | **Longest Palindromic Substring** (`Strings` · Medium) |
+| 💬 Quote | *"Don't repeat yourself. Every piece of knowledge must have a single, unambiguous,..."* — Andrew Hunt |
+| 📊 Stars | ⭐ 6 across 76 repos |
 | 👥 Followers | 4 |
 
 ---
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-07-29 · Day #53*
+*Last updated: 2026-07-30 · Day #54*
