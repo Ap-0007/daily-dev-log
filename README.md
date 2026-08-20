@@ -1,20 +1,20 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-74%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-75%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-08-19
+## 📌 Latest Entry — 2026-08-20
 
-**→ [View Today's Log](./logs/2026/08/2026-08-19.md)**
+**→ [View Today's Log](./logs/2026/08/2026-08-20.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **LRU Cache** (`Design` · Medium) |
-| 💬 Quote | *"The bearing of a child takes nine months, no matter how many women are assigned...."* — Harlan Mills |
+| 🧩 Challenge | **Regular Expression Matching** (`Dynamic Programming` · Hard) |
+| 💬 Quote | *"If you have to work with code that is a mess, the way to clean it up is to first..."* — Martin Fowler |
 | 📊 Stars | ⭐ 6 across 82 repos |
 | 👥 Followers | 6 |
 
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-08-19 · Day #74*
+*Last updated: 2026-08-20 · Day #75*
