@@ -1,22 +1,22 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-82%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-83%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-08-27
+## 📌 Latest Entry — 2026-08-28
 
-**→ [View Today's Log](./logs/2026/08/2026-08-27.md)**
+**→ [View Today's Log](./logs/2026/08/2026-08-28.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Word Search** (`Backtracking` · Medium) |
-| 💬 Quote | *"Most good programmers do programming not because they expect to get paid or get ..."* — Linus Torvalds |
-| 📊 Stars | ⭐ 6 across 94 repos |
-| 👥 Followers | 6 |
+| 🧩 Challenge | **Regular Expression Matching** (`Dynamic Programming` · Hard) |
+| 💬 Quote | *"A startup is a company designed to grow fast...."* — Paul Graham |
+| 📊 Stars | ⭐ 7 across 94 repos |
+| 👥 Followers | 7 |
 
 ---
 
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-08-27 · Day #82*
+*Last updated: 2026-08-28 · Day #83*
