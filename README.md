@@ -1,21 +1,21 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-103%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-104%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-09-17
+## 📌 Latest Entry — 2026-09-18
 
-**→ [View Today's Log](./logs/2026/09/2026-09-17.md)**
+**→ [View Today's Log](./logs/2026/09/2026-09-18.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Trapping Rain Water** (`Arrays` · Hard) |
-| 💬 Quote | *"Adding manpower to a late software project makes it later...."* — Fred Brooks |
-| 📊 Stars | ⭐ 8 across 111 repos |
+| 🧩 Challenge | **Longest Increasing Subsequence** (`Dynamic Programming` · Medium) |
+| 💬 Quote | *"It's harder to read code than to write it...."* — Joel Spolsky |
+| 📊 Stars | ⭐ 8 across 113 repos |
 | 👥 Followers | 8 |
 
 ---
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-09-17 · Day #103*
+*Last updated: 2026-09-18 · Day #104*
