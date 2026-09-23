@@ -1,20 +1,20 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-108%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-109%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-09-22
+## 📌 Latest Entry — 2026-09-23
 
-**→ [View Today's Log](./logs/2026/09/2026-09-22.md)**
+**→ [View Today's Log](./logs/2026/09/2026-09-23.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Longest Increasing Subsequence** (`Dynamic Programming` · Medium) |
-| 💬 Quote | *"Programs must be written for people to read, and only incidentally for machines ..."* — Anonymous |
+| 🧩 Challenge | **Coin Change** (`Dynamic Programming` · Medium) |
+| 💬 Quote | *"There are only two kinds of languages: the ones people complain about and the on..."* — Bjarne Stroustrup |
 | 📊 Stars | ⭐ 8 across 113 repos |
 | 👥 Followers | 10 |
 
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-09-22 · Day #108*
+*Last updated: 2026-09-23 · Day #109*
