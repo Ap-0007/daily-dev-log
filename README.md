@@ -1,20 +1,20 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-122%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-123%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-10-06
+## 📌 Latest Entry — 2026-10-07
 
-**→ [View Today's Log](./logs/2026/10/2026-10-06.md)**
+**→ [View Today's Log](./logs/2026/10/2026-10-07.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **LRU Cache** (`Design` · Medium) |
-| 💬 Quote | *"Debugging is twice as hard as writing the code in the first place. Therefore, if..."* — Brian Kernighan |
+| 🧩 Challenge | **Merge Two Sorted Lists** (`Linked Lists` · Easy) |
+| 💬 Quote | *"Simple can be harder than complex: You have to work hard to get your thinking cl..."* — Steve Jobs |
 | 📊 Stars | ⭐ 8 across 118 repos |
 | 👥 Followers | 10 |
 
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-10-06 · Day #122*
+*Last updated: 2026-10-07 · Day #123*
