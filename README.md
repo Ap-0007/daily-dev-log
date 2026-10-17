@@ -1,21 +1,21 @@
 # 📅 Daily Dev Log
 
-[![Streak](https://img.shields.io/badge/streak-132%20days-orange?style=flat-square&logo=github)](./logs)
+[![Streak](https://img.shields.io/badge/streak-133%20days-orange?style=flat-square&logo=github)](./logs)
 [![Auto-Updated](https://img.shields.io/badge/auto--updated-daily-blue?style=flat-square&logo=githubactions)](./github/workflows/daily-log.yml)
 
 > Automatically generated every day via GitHub Actions. Each entry contains a coding challenge, a developer quote, a live GitHub stats snapshot, and a reflective journal prompt.
 
 ---
 
-## 📌 Latest Entry — 2026-10-16
+## 📌 Latest Entry — 2026-10-17
 
-**→ [View Today's Log](./logs/2026/10/2026-10-16.md)**
+**→ [View Today's Log](./logs/2026/10/2026-10-17.md)**
 
 | Section | Today |
 |---------|-------|
-| 🧩 Challenge | **Reverse Linked List** (`Linked Lists` · Easy) |
-| 💬 Quote | *"Programs must be written for people to read, and only incidentally for machines ..."* — Anonymous |
-| 📊 Stars | ⭐ 8 across 126 repos |
+| 🧩 Challenge | **Invert Binary Tree** (`Trees` · Easy) |
+| 💬 Quote | *"Any fool can write code that a computer can understand. Good programmers write c..."* — Martin Fowler |
+| 📊 Stars | ⭐ 8 across 128 repos |
 | 👥 Followers | 10 |
 
 ---
@@ -46,4 +46,4 @@ A [GitHub Actions workflow](./.github/workflows/daily-log.yml) runs every day at
 
 ---
 
-*Last updated: 2026-10-16 · Day #132*
+*Last updated: 2026-10-17 · Day #133*
